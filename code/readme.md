@@ -1,1 +1,1 @@
-
+This repository contains all Python data generation scripts, PostgreSQL database creation, data cleaning, advanced SQL analysis, reporting views, optimization queries, and final analytics workflows used in the OTT Streaming Analytics Platform project.

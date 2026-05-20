@@ -263,18 +263,6 @@ The final reporting dataset includes:
 
 ---
 
-# 📤 Final Export
-
-The project exports final analytics-ready CSV datasets for:
-
-- Power BI
-- Tableau
-- Excel
-- Dashboard Development
-- Reporting
-
----
-
 # 🔥 Key Business Insights
 
 - User engagement varied significantly across different content genres.

@@ -71,17 +71,7 @@ The project contains:
 
 The project follows a multi-layer PostgreSQL architecture:
 
-```text
-Raw Layer
-   ↓
-Clean Layer
-   ↓
-Analytics Layer
-   ↓
-Reporting Layer
-   ↓
-Final Export Tables
-```
+![Database Architecture](images/diagram.png)
 
 ---
 

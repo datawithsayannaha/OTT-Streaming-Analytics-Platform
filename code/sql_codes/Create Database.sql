@@ -1,0 +1,4 @@
+CREATE SCHEMA raw;
+CREATE SCHEMA clean;
+CREATE SCHEMA analytics;
+CREATE SCHEMA reporting;
